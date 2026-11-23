@@ -1,0 +1,11 @@
+name,email,phone,passportNo
+Abhey Sharma,abhey.sharma@gmail.com,9876543210,P1234567
+Moksh Sharma,moksh.sharma@gmail.com,9123456780,P2345678
+Janit,janit@gmail.com,9988776655,P3456789
+Harshit,harshit@gmail.com,9090909090,P4567890
+Priya Nair,priya.nair@gmail.com,9811122233,P5678901
+Riya Desai,riya.desai@gmail.com,9822233344,P6789012
+Bad Email Example,not-an-email,9876543210,P7777777
+Short Phone,short.phone@gmail.com,12345,P8888888
+Abhey Duplicate,abhey.dup@gmail.com,9876500000,P1234567
+Missing Columns,only@two.com
