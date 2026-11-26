@@ -1,0 +1,8 @@
+flightNo,origin,destination,departure,totalSeats,baseFare
+AI101,Delhi,Mumbai,2027-03-15 06:30,30,5500
+6E202,Mumbai,Bengaluru,2027-03-15 09:45,20,4200
+UK303,Delhi,Goa,2027-03-16 14:10,25,6800
+SG404,Chennai,Kolkata,2027-03-17 18:00,15,5100
+XX999,Pune,Pune,2027-03-18 10:00,10,3000
+YY111,Delhi,Jaipur,2020-01-01 10:00,10,3000
+ZZ222,Delhi,Jaipur,2027-13-45 10:00,10,3000
